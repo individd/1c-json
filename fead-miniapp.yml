@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<yml_catalog date="2025-10-27T10:00:00+03:00">
+<yml_catalog date="2025-10-27T12:00:00+03:00">
     <shop>
         <name>Просто Охапка</name>
         <company>BloomKit</company>
@@ -13,89 +13,84 @@
 
         <offers>
 
-            <offer group_id="10001" id="1">
-                <name>Охапка розовых пионов</name>
-                <price>4200</price>
+            <offer group_id="1001" id="1">
+                <name>Охапка «Раннее утро»</name>
+                <price>2900</price>
                 <categoryId>10</categoryId>
-                <picture>https://images.unsplash.com/photo-1526045612212-70caf35c14df</picture>
-                <vendorCode>PK001</vendorCode>
-                <oldprice>4900</oldprice>
-                <description>Свежая охапка розовых пионов с лёгким ароматом. Идеальна для подарка или декора дома.</description>
-                <shortDescription>15 пионов, обёртка из крафт-бумаги</shortDescription>
-                <quantityInStock>8</quantityInStock>
-                <param name="Цвет" type="secondary">Розовый</param>
-                <param name="Размер" type="primary">Стандарт</param>
-                <param name="Приоритет">1</param>
-                <weight>1.2</weight>
-                <dimensions>40/25/25</dimensions>
+                <picture>https://images.unsplash.com/photo-1501004318641-b39e6451bec6</picture>
+                <vendorCode>OH001</vendorCode>
+                <oldprice>3200</oldprice>
+                <description>Лёгкая охапка из белых ромашек и зелени — символ чистоты и свежести. Без лент и фантиков, только живые цветы.</description>
+                <shortDescription>Ромашки и зелень в крафте</shortDescription>
+                <quantityInStock>15</quantityInStock>
+                <param name="Цвет">Белый</param>
+                <param name="Формат">Охапка</param>
+                <weight>0.8</weight>
+                <dimensions>30/25/25</dimensions>
             </offer>
 
-            <offer group_id="10002" id="2">
-                <name>Охапка белых тюльпанов</name>
-                <price>3500</price>
-                <categoryId>10</categoryId>
-                <picture>https://images.unsplash.com/photo-1494976388531-d1058494cdd8</picture>
-                <vendorCode>WT002</vendorCode>
-                <oldprice>3900</oldprice>
-                <description>Белоснежные тюльпаны — символ чистоты и начала. Доставка по Москве в течение 2 часов.</description>
-                <shortDescription>25 тюльпанов, без упаковки</shortDescription>
-                <quantityInStock>20</quantityInStock>
-                <param name="Цвет" type="secondary">Белый</param>
-                <param name="Размер" type="primary">L</param>
-                <param name="Приоритет">2</param>
-                <weight>0.9</weight>
-                <dimensions>35/20/20</dimensions>
-            </offer>
-
-            <offer group_id="10003" id="3">
-                <name>Охапка эвкалипта и роз</name>
-                <price>4600</price>
+            <offer group_id="1002" id="2">
+                <name>Охапка «Тёплый вечер»</name>
+                <price>3700</price>
                 <categoryId>10</categoryId>
                 <picture>https://images.unsplash.com/photo-1509042239860-f550ce710b93</picture>
-                <vendorCode>ER003</vendorCode>
-                <oldprice>5200</oldprice>
-                <description>Ароматный букет с листьями эвкалипта и пудровыми розами. Придаёт пространству спокойствие и уют.</description>
-                <shortDescription>Смесь зелени и роз</shortDescription>
-                <quantityInStock>5</quantityInStock>
-                <param name="Цвет" type="secondary">Пудровый</param>
-                <param name="Размер" type="primary">M</param>
-                <param name="Приоритет">3</param>
+                <vendorCode>OH002</vendorCode>
+                <oldprice>4100</oldprice>
+                <description>Пудровые розы, эвкалипт и немного лаванды. Для уютных вечеров, когда хочется тепла и покоя.</description>
+                <shortDescription>Пудровые розы и эвкалипт</shortDescription>
+                <quantityInStock>9</quantityInStock>
+                <param name="Цвет">Пудровый</param>
+                <param name="Формат">Охапка</param>
                 <weight>1.1</weight>
-                <dimensions>45/30/30</dimensions>
+                <dimensions>40/30/30</dimensions>
             </offer>
 
-            <offer group_id="10004" id="4">
-                <name>Охапка лаванды</name>
-                <price>2800</price>
-                <categoryId>10</categoryId>
-                <picture>https://images.unsplash.com/photo-1524594154908-edd2f732de1f</picture>
-                <vendorCode>LV004</vendorCode>
-                <oldprice>3200</oldprice>
-                <description>Натуральная французская лаванда. Идеально сушится и сохраняет аромат до 6 месяцев.</description>
-                <shortDescription>Сухоцветы лаванды, упаковка из ткани</shortDescription>
-                <quantityInStock>15</quantityInStock>
-                <param name="Цвет" type="secondary">Фиолетовый</param>
-                <param name="Размер" type="primary">S</param>
-                <param name="Приоритет">4</param>
-                <weight>0.5</weight>
-                <dimensions>30/15/15</dimensions>
-            </offer>
-
-            <offer group_id="10005" id="5">
-                <name>Мини-охапка "Утро"</name>
-                <price>2500</price>
+            <offer group_id="1003" id="3">
+                <name>Охапка «Лето в бумаге»</name>
+                <price>3300</price>
                 <categoryId>10</categoryId>
                 <picture>https://images.unsplash.com/photo-1556228724-4d55197f3e8b</picture>
-                <vendorCode>MN005</vendorCode>
-                <oldprice>2900</oldprice>
-                <description>Небольшая композиция из ромашек и зелени — словно утреннее солнце на столе.</description>
-                <shortDescription>Ромашки и зелень</shortDescription>
+                <vendorCode>OH003</vendorCode>
+                <oldprice>3600</oldprice>
+                <description>Жёлтые подсолнухи и васильки — как летнее утро в деревне. Простота, радость и жизнь.</description>
+                <shortDescription>Подсолнухи и васильки</shortDescription>
                 <quantityInStock>12</quantityInStock>
-                <param name="Цвет" type="secondary">Жёлтый</param>
-                <param name="Размер" type="primary">XS</param>
-                <param name="Приоритет">5</param>
-                <weight>0.4</weight>
-                <dimensions>25/15/15</dimensions>
+                <param name="Цвет">Жёлтый</param>
+                <param name="Формат">Охапка</param>
+                <weight>1.0</weight>
+                <dimensions>35/25/25</dimensions>
+            </offer>
+
+            <offer group_id="1004" id="4">
+                <name>Охапка «Пудровый рассвет»</name>
+                <price>4500</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0</picture>
+                <vendorCode>OH004</vendorCode>
+                <oldprice>5100</oldprice>
+                <description>Охапка из 19 нежно-розовых пионов. Лёгкий аромат, утончённая форма — классика без лишнего.</description>
+                <shortDescription>19 пионов, без лент</shortDescription>
+                <quantityInStock>6</quantityInStock>
+                <param name="Цвет">Розовый</param>
+                <param name="Формат">Охапка</param>
+                <weight>1.5</weight>
+                <dimensions>50/30/30</dimensions>
+            </offer>
+
+            <offer group_id="1005" id="5">
+                <name>Охапка «Осенний воздух»</name>
+                <price>3900</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1501004318641-b39e6451bec6</picture>
+                <vendorCode>OH005</vendorCode>
+                <oldprice>4200</oldprice>
+                <description>Тёплые тона: герберы, эвкалипт и сухоцветы. Идеальна для подарка в октябре.</description>
+                <shortDescription>Герберы и эвкалипт</shortDescription>
+                <quantityInStock>10</quantityInStock>
+                <param name="Цвет">Оранжевый</param>
+                <param name="Формат">Охапка</param>
+                <weight>1.3</weight>
+                <dimensions>40/28/28</dimensions>
             </offer>
 
         </offers>
