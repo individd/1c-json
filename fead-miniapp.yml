@@ -1,66 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<yml_catalog date="2022-11-14T10:35:26+03:00">
+<yml_catalog date="2025-10-27T10:00:00+03:00">
     <shop>
-        <name>TGShop Market</name>
-        <company>TGShop</company>
-        <url>https://market.yandex.ru/</url>
+        <name>Просто Охапка</name>
+        <company>BloomKit</company>
+        <url>https://prostoohapka.ru/</url>
+
         <categories>
-            <category id="90401">Все категории</category>
-            <category id="198118" parentId="90401">Женская одежда</category>
-            <category id="198119" parentId="90401">Детская одежда</category>
+            <category id="1">Все категории</category>
+            <category id="10" parentId="1">Цветы</category>
+            <category id="20" parentId="1">Аксессуары</category>
         </categories>
+
         <offers>
-            <offer group_id="739091" id="1">
-                <name>Платье НОВОЕ ТЕСТОВОЕ</name>
-                <price>4500</price>
-                <categoryId>198118</categoryId>
-                <picture>https://static.tildacdn.com/tild3065-3664-4738-b636-623635346431/Logo-2.svg</picture>
-                <vendorCode>AE897917</vendorCode>
-                <oldprice>7999</oldprice>
-                <description>Комбинированное платье представлено в новой коллекции итальянской марки VIA TORRIANI 88. Сочетание двух материалов добавляет модели особого шика. Принт в полоску является особенностью модели. Специфика кроя обеспечит отличную посадку на любой тип силуэта</description>
-                <shortDescription>Платье на каждый день</shortDescription>
-                <quantityInStock>128</quantityInStock>
-                <param name="Цвет" type="secondary">Желтый</param>
-                <param name="Размер" type="primary">S</param>
+
+            <offer group_id="10001" id="1">
+                <name>Охапка розовых пионов</name>
+                <price>4200</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1526045612212-70caf35c14df</picture>
+                <vendorCode>PK001</vendorCode>
+                <oldprice>4900</oldprice>
+                <description>Свежая охапка розовых пионов с лёгким ароматом. Идеальна для подарка или декора дома.</description>
+                <shortDescription>15 пионов, обёртка из крафт-бумаги</shortDescription>
+                <quantityInStock>8</quantityInStock>
+                <param name="Цвет" type="secondary">Розовый</param>
+                <param name="Размер" type="primary">Стандарт</param>
                 <param name="Приоритет">1</param>
-                <weight>0.5</weight>
-                <dimensions>10/11/12</dimensions>
-                <sizeChart>https://telegra.ph/Razmernaya-setka-04-08</sizeChart>
+                <weight>1.2</weight>
+                <dimensions>40/25/25</dimensions>
             </offer>
-            <offer group_id="739092" id="2">
-                <name>Платье Windy</name>
-                <price>6700</price>
-                <categoryId>198118</categoryId>
-                <picture>https://static.tildacdn.com/tild3065-3664-4738-b636-623635346431/Logo-2.svg</picture>
-                <vendorCode>AE89000</vendorCode>
-                <oldprice>6700</oldprice>
-                <description>Комбинированное платье миди</description>
-                <shortDescription>Платье для летних прогулок</shortDescription>
-                <quantityInStock>2</quantityInStock>
-                <param name="Цвет" type="secondary">Голубой</param>
-                <param name="Размер" type="primary">S</param>
-                <param name="Приоритет">1</param>
-                <weight>0.6</weight>
-                <dimensions>10.5/11.5/12.5</dimensions>
-                <sizeChart name="Супер сетка">https://telegra.ph/Razmernaya-setka-04-08</sizeChart>
+
+            <offer group_id="10002" id="2">
+                <name>Охапка белых тюльпанов</name>
+                <price>3500</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1494976388531-d1058494cdd8</picture>
+                <vendorCode>WT002</vendorCode>
+                <oldprice>3900</oldprice>
+                <description>Белоснежные тюльпаны — символ чистоты и начала. Доставка по Москве в течение 2 часов.</description>
+                <shortDescription>25 тюльпанов, без упаковки</shortDescription>
+                <quantityInStock>20</quantityInStock>
+                <param name="Цвет" type="secondary">Белый</param>
+                <param name="Размер" type="primary">L</param>
+                <param name="Приоритет">2</param>
+                <weight>0.9</weight>
+                <dimensions>35/20/20</dimensions>
             </offer>
-            <offer group_id="739092" id="3">
-                <name>Платье Windy</name>
-                <price>6700</price>
-                <categoryId>198118</categoryId>
-                <picture>https://static.tildacdn.com/tild3065-3664-4738-b636-623635346431/Logo-2.svg</picture>
-                <vendorCode>AE89000</vendorCode>
-                <oldprice>6700</oldprice>
-                <description>Комбинированное платье миди</description>
-                <shortDescription>Платье для летних прогулок</shortDescription>
-                <quantityInStock>2</quantityInStock>
-                <param name="Цвет" type="secondary">Голубой</param>
+
+            <offer group_id="10003" id="3">
+                <name>Охапка эвкалипта и роз</name>
+                <price>4600</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1509042239860-f550ce710b93</picture>
+                <vendorCode>ER003</vendorCode>
+                <oldprice>5200</oldprice>
+                <description>Ароматный букет с листьями эвкалипта и пудровыми розами. Придаёт пространству спокойствие и уют.</description>
+                <shortDescription>Смесь зелени и роз</shortDescription>
+                <quantityInStock>5</quantityInStock>
+                <param name="Цвет" type="secondary">Пудровый</param>
                 <param name="Размер" type="primary">M</param>
-                <param name="Приоритет">1</param>
-                <weight>0.7</weight>
-                <dimensions>100.5/110.5/120.5</dimensions>
-                <sizeChart name="Супер сетка">https://telegra.ph/Razmernaya-setka-04-08</sizeChart>
+                <param name="Приоритет">3</param>
+                <weight>1.1</weight>
+                <dimensions>45/30/30</dimensions>
             </offer>
+
+            <offer group_id="10004" id="4">
+                <name>Охапка лаванды</name>
+                <price>2800</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1524594154908-edd2f732de1f</picture>
+                <vendorCode>LV004</vendorCode>
+                <oldprice>3200</oldprice>
+                <description>Натуральная французская лаванда. Идеально сушится и сохраняет аромат до 6 месяцев.</description>
+                <shortDescription>Сухоцветы лаванды, упаковка из ткани</shortDescription>
+                <quantityInStock>15</quantityInStock>
+                <param name="Цвет" type="secondary">Фиолетовый</param>
+                <param name="Размер" type="primary">S</param>
+                <param name="Приоритет">4</param>
+                <weight>0.5</weight>
+                <dimensions>30/15/15</dimensions>
+            </offer>
+
+            <offer group_id="10005" id="5">
+                <name>Мини-охапка "Утро"</name>
+                <price>2500</price>
+                <categoryId>10</categoryId>
+                <picture>https://images.unsplash.com/photo-1556228724-4d55197f3e8b</picture>
+                <vendorCode>MN005</vendorCode>
+                <oldprice>2900</oldprice>
+                <description>Небольшая композиция из ромашек и зелени — словно утреннее солнце на столе.</description>
+                <shortDescription>Ромашки и зелень</shortDescription>
+                <quantityInStock>12</quantityInStock>
+                <param name="Цвет" type="secondary">Жёлтый</param>
+                <param name="Размер" type="primary">XS</param>
+                <param name="Приоритет">5</param>
+                <weight>0.4</weight>
+                <dimensions>25/15/15</dimensions>
+            </offer>
+
         </offers>
     </shop>
 </yml_catalog>
