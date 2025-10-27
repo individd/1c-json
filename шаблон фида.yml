@@ -12,14 +12,14 @@
         <offers>
             <offer group_id="739091" id="1">
                 <name>Платье Sun</name>
-                <price>3500</price>
+                <price>4500</price>
                 <categoryId>198118</categoryId>
                 <picture>https://static.tildacdn.com/tild3065-3664-4738-b636-623635346431/Logo-2.svg</picture>
                 <vendorCode>AE897917</vendorCode>
-                <oldprice>4999</oldprice>
+                <oldprice>7999</oldprice>
                 <description>Комбинированное платье представлено в новой коллекции итальянской марки VIA TORRIANI 88. Сочетание двух материалов добавляет модели особого шика. Принт в полоску является особенностью модели. Специфика кроя обеспечит отличную посадку на любой тип силуэта</description>
                 <shortDescription>Платье на каждый день</shortDescription>
-                <quantityInStock>467</quantityInStock>
+                <quantityInStock>128</quantityInStock>
                 <param name="Цвет" type="secondary">Желтый</param>
                 <param name="Размер" type="primary">S</param>
                 <param name="Приоритет">1</param>
